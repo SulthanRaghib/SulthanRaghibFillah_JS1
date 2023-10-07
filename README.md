@@ -2,15 +2,15 @@
 
 - Mitra : Infinite Learning
 
-# TO DO
+## TO DO
 
 Silahkan buat contoh program javascript dengan menggunakan  
-✨ if,else,nested if
-✨ switch case
-✨ for statement
-✨ while, do while
-✨ function
+✨ if,else,nested if <br>
+✨ switch case <br>
+✨ for statement <br>
+✨ while, do while <br>
+✨ function <br>
 
-# Deadline
+### Deadline
 
 Minggu, 08 Oktober 2023
